@@ -1,0 +1,4 @@
+select 
+*
+from
+dbt_demo_1.dbt_demo_1_schema_dbt_demo_1_schema.raw_orders
